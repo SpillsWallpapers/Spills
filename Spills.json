@@ -1,49 +1,39 @@
 {
     "Collections":[
         {
-            "name":"AMOLED",
-            "preview_url":"http://i.imgur.com/KBz8K9h.png",
-            "preview_thumbnail_url":"http://i.imgur.com/KBz8K9h.png"
+            "name":"Landscapes",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
-            "name":"MINIMAL",
+            "name":"City",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"CITY",
+            "name":"Food",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
-            "name":"EARTH",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-        },
-        {
-            "name":"LANDSCAPES",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-        },
-        {
-            "name":"PEOPLE",
+            "name":"People",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
     "Wallpapers":[
         {
-            "name":"Swords Road",
-            "author":"Spills Exclusive",
-            "url":"http://i.imgur.com/sfzOsXn.jpg",
-            "collections":"LANDSCAPES,PEOPLE"
+            "name":"ShotA",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+            "collections":"featured,landscapes,people"
         },
         {
-            "name":"Purple Bash",
-            "author":"Spills Exclusive",
-            "url":"http://i.imgur.com/KBz8K9h.png",
+            "name":"ShotB",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
             "dimensions":"3200x2560",
-            "collections":"AMOLED"
+            "collections":"people,city"
         },
         {
             "author":"Someone",
