@@ -8,7 +8,9 @@
                 "name": "City"
             },
             {
-                "name": "Nature"
+                "name": "Nature",
+		"preview_url":"https://i.imgur.com/i7hbmpL.jpg",
+                "preview_thumbnail_url":"https://i.imgur.com/i7hbmpL.jpg"
             },
             {
                 "name": "Satellite"
