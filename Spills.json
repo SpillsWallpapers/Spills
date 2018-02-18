@@ -24,24 +24,24 @@
     "Wallpapers":[
         {
             "name":"PitchBlack",
-            "author":"Dejan",
+            "author":"Spills",
             "url":"https://i.imgur.com/Z4DLuZa.png",
             "collections":"featured,landscapes,people",
             "downloadable":true
         },
         {
             "name":"NightOut",
-            "author":"Dejan",
+            "author":"Spills",
             "url":"https://i.imgur.com/5FL7rpG.jpg",
             "dimensions":"3200x2560",
             "collections":"people,city",
-            "downloadable":false
+            "downloadable":true
         },
         {
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-            "name":"ShotC",
-            "dimensions":"1280x720",
+            "author":"Spills",
+            "url":"https://i.imgur.com/sfzOsXn.jpg",
+            "name":"Old Road",
+            "dimensions":"2976x3968",
             "copyright":"Credits to its creator",
             "collections":"landscapes,city"
         },
