@@ -31,7 +31,7 @@
             "name":"PitchBlack",
             "author":"Spills",
             "url":"https://i.imgur.com/Z4DLuZa.png",
-            "collections":"featured,landscapes,people",
+            "collections":"universe",
             "downloadable":true
         },
         {
@@ -39,7 +39,7 @@
             "author":"Spills",
             "url":"https://i.imgur.com/5FL7rpG.jpg",
             "dimensions":"3200x2560",
-            "collections":"people,city",
+            "collections":"city",
             "downloadable":true
         },
         {
@@ -48,7 +48,7 @@
             "name":"Old Road",
             "dimensions":"2976x3968",
             "copyright":"Credits to its creator",
-            "collections":"landscapes,city"
+            "collections":"nature"
         },
         {
             "name":"Wallsplash 1",
@@ -57,7 +57,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,city"
+            "collections":"minimal"
         },
         {
             "name":"Wallsplash 2",
@@ -66,7 +66,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,food"
+            "collections":"nature"
         },
         {
             "name":"Wallsplash 3",
@@ -75,7 +75,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,food,people"
+            "collections":"nature"
         },
         {
             "name":"Wallsplash 4",
@@ -84,7 +84,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"landscapes,people,city"
+            "collections":"city"
         },
         {
             "name":"Wallsplash 5",
@@ -93,7 +93,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes"
+            "collections":"nature"
         },
         {
             "name":"Wallsplash 6",
@@ -102,7 +102,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,people"
+            "collections":"nature"
         },
         {
             "name":"Wallsplash 7",
@@ -111,7 +111,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"landscapes,people"
+            "collections":"city"
         },
         {
             "name":"Wallsplash 8",
@@ -120,7 +120,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"food"
+            "collections":"city"
         }
     ]
 }
