@@ -7,14 +7,17 @@
             {
                 "name": "City"
             },
+	    {
+                "name": "Minimal"
+            },
             {
-                "name": "Nature",
+                "name": "Nature"
             },
             {
                 "name": "Universe"
             },
             {
-                "name": "Minimal"
+                "name": "Food"
             },
             {
                 "name": "Black and White"
@@ -24,18 +27,18 @@
 	"Wallpapers":
         [
 			{
-		"author": "Taken from androidpolice",
-		"url": "http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_lollipop-wallpaper-01.jpg",
-		"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5M0NoYUlTU3lFY1U",
-		"name": "L Wallpaper 1",
-                "category": "lollipop"
+		"author": "Spills",
+		"url": "https://i.imgur.com/519XOwe.jpg",
+		"thumbUrl": "https://i.imgur.com/519XOwe.jpg",
+		"name": "Wooden Wall",
+                "category": "minimal"
 	     },
              {
-		"author": "Taken from androidpolice",
-		"url": "http://www.androidpolice.com/wp-content/uploads/2013/11/nexusae0_wallpaper_50.jpg",
-		"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Wk16eXdqQlR5eE0",
-		"name": "Kitkat Wallpaper 1",
-                "category": "kitkat"
+		"author": "Spills",
+		"url": "https://i.imgur.com/YlRUS1z.jpg",
+		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
+		"name": "Sweet Brew",
+                "category": "food"
 	    }
 		]
 }
