@@ -87,7 +87,7 @@
 		"url": "https://i.imgur.com/favqRlv.jpg",
 		"thumbUrl": "https://i.imgur.com/favqRlv.jpg",
 		"name": "Dry Summer",
-                "category": "nature"
+                "category": "nature, city"
 	     },
              {
 		"author": "Spills",
@@ -143,7 +143,7 @@
 		"url": "https://i.imgur.com/MXOseJj.jpg",
 		"thumbUrl": "https://i.imgur.com/MXOseJj.jpg",
 		"name": "High Shade",
-                "category": "architecture"
+                "category": "architecture, city"
 	     },
              {
 		"author": "Spills",
@@ -290,7 +290,7 @@
 		"url": "https://i.imgur.com/0TpoohE.jpg",
 		"thumbUrl": "https://i.imgur.com/0TpoohE.jpg",
 		"name": "Quiet City",
-                "category": "architecture, nature"
+                "category": "architecture, nature, city"
 	     },
              {
 		"author": "Spills",
@@ -339,7 +339,7 @@
 		"url": "https://i.imgur.com/tY37cKS.jpg",
 		"thumbUrl": "https://i.imgur.com/tY37cKS.jpg",
 		"name": "City Board",
-                "category": "nature, minimal"
+                "category": "nature, minimal, city"
 	     },
              {
 		"author": "Spills",
