@@ -140,283 +140,214 @@
 	     },
              {
 		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
+		"url": "https://i.imgur.com/MXOseJj.jpg",
+		"thumbUrl": "https://i.imgur.com/MXOseJj.jpg",
+		"name": "High Shade",
+                "category": "architecture"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/TyNXYLf.jpg",
+		"thumbUrl": "https://i.imgur.com/TyNXYLf.jpg",
+		"name": "Mountain Fog",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/xTCMZnu.jpg",
+		"thumbUrl": "https://i.imgur.com/xTCMZnu.jpg",
+		"name": "Old Window",
+                "category": "architecture, minimal"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/yb4O2GX.jpg",
+		"thumbUrl": "https://i.imgur.com/yb4O2GX.jpg",
+		"name": "Metal Comb",
+                "category": "architecture, minimal"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/mbeLTlZ.jpg",
+		"thumbUrl": "https://i.imgur.com/mbeLTlZ.jpg",
+		"name": "Mountain Lookout",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/ab7fQ23.jpg",
+		"thumbUrl": "https://i.imgur.com/ab7fQ23.jpg",
+		"name": "Glacier",
+                "category": "nature"     
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/8OSn8lj.jpg",
+		"thumbUrl": "https://i.imgur.com/8OSn8lj.jpg",
+		"name": "Old Airplane",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/dWsxItg.jpg",
+		"thumbUrl": "https://i.imgur.com/dWsxItg.jpg",
+		"name": "Narrow",
+                "category": "architecture, black and white"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/yoQExG7.jpg",
+		"thumbUrl": "https://i.imgur.com/yoQExG7.jpg",
+		"name": "Color Wall",
+                "category": "minimal"     
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/XTPN0F3.jpg",
+		"thumbUrl": "https://i.imgur.com/XTPN0F3.jpg",
+		"name": "Deep Steps",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/is4rxEm.jpg",
+		"thumbUrl": "https://i.imgur.com/is4rxEm.jpg",
+		"name": "Concrete Stairs",
+                "category": "architecture, black and white"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/9WWLsR0.jpg",
+		"thumbUrl": "https://i.imgur.com/9WWLsR0.jpg",
+		"name": "Green Door",
+                "category": "nature"     
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/PmLuLnV.jpg",
+		"thumbUrl": "https://i.imgur.com/PmLuLnV.jpg",
+		"name": "High Bliss",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/CCGv5rO.jpg",
+		"thumbUrl": "https://i.imgur.com/CCGv5rO.jpg",
+		"name": "Concrete Wall",
+                "category": "black and white, architecture"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/BfRkw9B.jpg",
+		"thumbUrl": "https://i.imgur.com/BfRkw9B.jpg",
+		"name": "Future",
+                "category": "architecture"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/0GHHpm2.jpg",
+		"thumbUrl": "https://i.imgur.com/0GHHpm2.jpg",
+		"name": "Fisherman Net",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/N2pZMAf.jpg",
+		"thumbUrl": "https://i.imgur.com/N2pZMAf.jpg",
+		"name": "High Sunset",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/J6PmwAr.jpg",
+		"thumbUrl": "https://i.imgur.com/J6PmwAr.jpg",
+		"name": "Lonley Boat",
+                "category": "nature, minimal"  
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/Cb6vQV9.jpg",
+		"thumbUrl": "https://i.imgur.com/Cb6vQV9.jpg",
+		"name": "Fallen Tree",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/ysWu3mY.jpg",
+		"thumbUrl": "https://i.imgur.com/ysWu3mY.jpg",
+		"name": "Dying Tree",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/g6rlbib.jpg",
+		"thumbUrl": "https://i.imgur.com/g6rlbib.jpg",
+		"name": "Concrete Rolls",
+                "category": "architecture, black and white"   
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/0TpoohE.jpg",
+		"thumbUrl": "https://i.imgur.com/0TpoohE.jpg",
+		"name": "Quiet City",
+                "category": "architecture, nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/GVS6DhD.jpg",
+		"thumbUrl": "https://i.imgur.com/GVS6DhD.jpg",
+		"name": "Night Out",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/f4DCgnH.jpg",
+		"thumbUrl": "https://i.imgur.com/f4DCgnH.jpg",
+		"name": "Breakfast",
                 "category": "food"
 	     },
              {
 		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
+		"url": "https://i.imgur.com/FMB2IQE.jpg",
+		"thumbUrl": "https://i.imgur.com/FMB2IQE.jpg",
+		"name": "Blue Landscape",
+                "category": "nature"
 	     },
              {
 		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
+		"url": "https://i.imgur.com/9xCrHsJ.jpg",
+		"thumbUrl": "https://i.imgur.com/9xCrHsJ.jpg",
+		"name": "Night Alone",
+                "category": "nature"
 	     },
              {
 		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
+		"url": "https://i.imgur.com/H9Uzxf0.jpg",
+		"thumbUrl": "https://i.imgur.com/H9Uzxf0.jpg",
+		"name": "Blue Wood",
+                "category": "nature, minimal"
 	     },
              {
 		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
+		"url": "https://i.imgur.com/ItJqYwa.jpg",
+		"thumbUrl": "https://i.imgur.com/ItJqYwa.jpg",
+		"name": "Blue",
+                "category": "nature, minimal"
 	     },
              {
 		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"     
+		"url": "https://i.imgur.com/tY37cKS.jpg",
+		"thumbUrl": "https://i.imgur.com/tY37cKS.jpg",
+		"name": "City Board",
+                "category": "nature, minimal"
 	     },
              {
 		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"     
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"     
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"  
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"   
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"     
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"     
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food" 
-	     },
-             {
-		"author": "Spills",
-		"url": "https://i.imgur.com/YlRUS1z.jpg",
-		"thumbUrl": "https://i.imgur.com/YlRUS1z.jpg",
-		"name": "Sweet Brew",
-                "category": "food"     
+		"url": "https://i.imgur.com/lkBjaZW.jpg",
+		"thumbUrl": "https://i.imgur.com/lkBjaZW.jpg",
+		"name": "Bench",
+                "category": "nature, architecture"
+	         
 	    }
 		]
 }
