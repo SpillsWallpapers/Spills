@@ -13,8 +13,20 @@
             {
                 "name": "Nature"
             },
+	    {
+                "name": "Technology"
+            },
             {
                 "name": "Universe"
+	    },
+	    {
+                "name": "Animals"
+	    },
+	    {
+                "name": "Summer"
+            },
+	    {
+                "name": "Winter"
             },
             {
                 "name": "Food"
