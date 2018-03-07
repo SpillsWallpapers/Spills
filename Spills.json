@@ -975,21 +975,21 @@
 		"thumbUrl": "https://i.imgur.com/w6q8IxJ.jpg",
 		"name": "Africa Dessert",
                 "category": "summer, nature"
-		     },
+	     },
              {
 		"author": "Alessio Lin",
 		"url": "https://i.imgur.com/G6QdzgI.jpg",
 		"thumbUrl": "https://i.imgur.com/G6QdzgI.jpg",
 		"name": "Birds View",
                 "category": "nature, summer"
-				},
+	     },
              {
 		"author": "Filip Gielda",
 		"url": "https://i.imgur.com/CP5h4bn.jpg",
 		"thumbUrl": "https://i.imgur.com/CP5h4bn.jpg",
 		"name": "Winter Mountains",
                 "category": "winter, nature"
-				},
+	     },
              {
 		"author": "Filip Gielda",
 		"url": "https://i.imgur.com/2qfHq4K.jpg",
@@ -1003,7 +1003,195 @@
 		"thumbUrl": "https://i.imgur.com/lkBjaZW.jpg",
 		"name": "Bench",
                 "category": "nature, architecture"
-	         
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/CQwYLHw.jpg",
+		"thumbUrl": "https://i.imgur.com/CQwYLHw.jpg",
+		"name": "Camping",
+                "category": "nature, summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/GnfqCQe.jpg",
+		"thumbUrl": "https://i.imgur.com/GnfqCQe.jpg",
+		"name": "Canoe Maui",
+                "category": "nature, summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/i6aHqY9.jpg",
+		"thumbUrl": "https://i.imgur.com/i6aHqY9.jpg",
+		"name": "Summer Night",
+                "category": "summer, nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/tpeyqvP.jpg",
+		"thumbUrl": "https://i.imgur.com/tpeyqvP.jpg",
+		"name": "Coronado",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/88sdjrJ.jpg",
+		"thumbUrl": "https://i.imgur.com/88sdjrJ.jpg",
+		"name": "Desert Gap",
+                "category": "nature, summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/5ZLCD8K.jpg",
+		"thumbUrl": "https://i.imgur.com/5ZLCD8K.jpg",
+		"name": "Hong Kong Lights",
+                "category": "city, architecture"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/PyMPN0o.jpg",
+		"thumbUrl": "https://i.imgur.com/PyMPN0o.jpg",
+		"name": "Distant City",
+                "category": "nature, summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/SDie6AM.jpg",
+		"thumbUrl": "https://i.imgur.com/SDie6AM.jpg",
+		"name": "Forrest Bridge",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/MfUsixg.jpg",
+		"thumbUrl": "https://i.imgur.com/MfUsixg.jpg",
+		"name": "Clear Lake",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/cRKjhj7.jpg",
+		"thumbUrl": "https://i.imgur.com/cRKjhj7.jpg",
+		"name": "Windmill",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/XLXzHMA.jpg",
+		"thumbUrl": "https://i.imgur.com/XLXzHMA.jpg",
+		"name": "Sunset",
+                "category": "nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/C7VYhfb.jpg",
+		"thumbUrl": "https://i.imgur.com/C7VYhfb.jpg",
+		"name": "Summer Swim",
+                "category": "nature, summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/GYEVU49.jpg",
+		"thumbUrl": "https://i.imgur.com/GYEVU49.jpg",
+		"name": "Surfing",
+                "category": "summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/Rlp3rSf.jpg",
+		"thumbUrl": "https://i.imgur.com/Rlp3rSf.jpg",
+		"name": "Sunset City",
+                "category": "city, architecture"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/JpSYlDn.jpg",
+		"thumbUrl": "https://i.imgur.com/JpSYlDn.jpg",
+		"name": "Boat",
+                "category": "summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/HQMn8X2.jpg",
+		"thumbUrl": "https://i.imgur.com/HQMn8X2.jpg",
+		"name": "Lake House",
+                "category": "nature, summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/kNuUGh7.jpg",
+		"thumbUrl": "https://i.imgur.com/kNuUGh7.jpg",
+		"name": "Wet Glass",
+                "category": "minimal"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/bBcVXZ5.jpg",
+		"thumbUrl": "https://i.imgur.com/bBcVXZ5.jpg",
+		"name": "Lighthouse",
+                "category": "nature, summer"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/aDmsB6p.jpg",
+		"thumbUrl": "https://i.imgur.com/aDmsB6p.jpg",
+		"name": "Cosmos",
+                "category": "universe"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/WznL71i.jpg",
+		"thumbUrl": "https://i.imgur.com/WznL71i.jpg",
+		"name": "Passing Train",
+                "category": "minimal"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/MjEz2fU.jpg",
+		"thumbUrl": "https://i.imgur.com/MjEz2fU.jpg",
+		"name": "Stars",
+                "category": "universe"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/W0Tg6X5.jpg",
+		"thumbUrl": "https://i.imgur.com/W0Tg6X5.jpg",
+		"name": "Pool Ball",
+                "category": "minimal"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/KFdJ466.jpg",
+		"thumbUrl": "https://i.imgur.com/KFdJ466.jpg",
+		"name": "Shattered Glass",
+                "category": "minimal, black and white"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/zk2wVrj.jpg",
+		"thumbUrl": "https://i.imgur.com/zk2wVrj.jpg",
+		"name": "Umbrellas",
+                "category": "minimal"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/MXlYEZl.jpg",
+		"thumbUrl": "https://i.imgur.com/MXlYEZl.jpg",
+		"name": "Dry Texture",
+                "category": "minimal"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/bBVMT76.jpg",
+		"thumbUrl": "https://i.imgur.com/bBVMT76.jpg",
+		"name": "Sandy Beach",
+                "category": "summer, nature"
+	     },
+             {
+		"author": "Spills",
+		"url": "https://i.imgur.com/O0XiRfA.jpg",
+		"thumbUrl": "https://i.imgur.com/O0XiRfA.jpg",
+		"name": "Volcano Lava",
+                "category": "nature, minimal"
 	    }
 		]
 }
